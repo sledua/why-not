@@ -1,0 +1,41 @@
+{
+    "header": {
+        "title": "Try It Free",
+        "subtitle": "Build The Community Your Fans Will Love",
+        "description": "Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.",
+        "cta": "Get Started For Free"
+    },
+    "features": [
+        {
+            "title": "Grow Together",
+            "description": "Generate meaningful discussions with your audience and build a strong, loyal community. Think of the insightful conversations you miss out on with a feedback form."
+        },
+        {
+            "title": "Flowing Conversations",
+            "description": "You wouldn't paginate a conversation in real life, so why do it online? Our threads have just-in-time loading for a more natural flow."
+        },
+        {
+            "title": "Your Users",
+            "description": "It takes no time at all to integrate Huddle with your app's authentication solution. This means, once signed in to your app, your users can start chatting immediately."
+        }
+    ],
+    "cta": {
+        "title": "Ready To Build Your Community?",
+        "button": "Get Started For Free"
+    },
+    "footer": {
+        "contact": {
+            "phone": "+1-543-123-4567",
+            "email": "example@huddle.com"
+        },
+        "links": {
+            "about": "About Us",
+            "whatWeDo": "What We Do",
+            "faq": "FAQ",
+            "career": "Career",
+            "blog": "Blog",
+            "contact": "Contact Us"
+        },
+        "copyright": "&copy; Copyright 2018 Huddle. All rights reserved."
+    }
+}

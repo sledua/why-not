@@ -3,3 +3,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 _backS
+
+/*/design
+/*/README-template.md
+/*/style-guide.md
